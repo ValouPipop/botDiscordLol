@@ -53,14 +53,4 @@ python bot.py
 - Lorsqu'une défaite est détectée en classé solo/duo, il envoie une notification dans le salon spécifié.
 - La notification contient des détails sur la partie et la perte de LP.
 
-## 🛠 Améliorations Possibles
-- Ajout de la prise en charge d'autres modes de jeu.
-- Personnalisation des messages envoyés.
-- Intégration d'une commande pour ajouter/supprimer des joueurs à surveiller.
-
-## 📜 Licence
-Projet libre d'utilisation et modifiable à souhait.
-
----
-🎮 **Développé par [Votre Nom/Pseudo]**
 
